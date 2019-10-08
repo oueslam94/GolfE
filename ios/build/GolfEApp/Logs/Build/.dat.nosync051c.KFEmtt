@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0C061650-DBA4-4A01-B6F1-71E039875F46</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0C061650-DBA4-4A01-B6F1-71E039875F46.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GolfEApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GolfEApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace GolfEApp with scheme GolfEApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>592200062.733922</real>
+			<key>timeStoppedRecording</key>
+			<real>592200063.71420896</real>
+			<key>title</key>
+			<string>Building workspace GolfEApp with scheme GolfEApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>0C061650-DBA4-4A01-B6F1-71E039875F46</string>
+		</dict>
+		<key>6947AB4F-EE64-4B97-AC38-CDAAE2C4A707</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6947AB4F-EE64-4B97-AC38-CDAAE2C4A707.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GolfEApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GolfEApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace GolfEApp with scheme GolfEApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>592199930.89990795</real>
+			<key>timeStoppedRecording</key>
+			<real>592199931.85027802</real>
+			<key>title</key>
+			<string>Building workspace GolfEApp with scheme GolfEApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>6947AB4F-EE64-4B97-AC38-CDAAE2C4A707</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
